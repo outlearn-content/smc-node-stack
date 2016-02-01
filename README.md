@@ -1,3 +1,15 @@
+<!--
+{
+"name" : "smc-node-stack",
+"version" : "1.1",
+"title" : "SuperMegaCorp Node.js Stack Details",
+"description" : "Details about how we use Node here.",
+"author" : "Paulo Codaja",
+"homepage" : "https://www.outlearn.com/organization/supermegacorp",
+"freshnessDate" : 2016-02-01,
+"license" : "Commercial Private"
+}
+-->
 
 <!-- @section -->
 
